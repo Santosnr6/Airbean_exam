@@ -5,5 +5,6 @@ Här kommer länken till vår grupps figmaskiss: https://www.figma.com/file/iDB6
 
 ## Decomposition
 
-
+* Hej
+* Jag
 ## Pattern recognition
